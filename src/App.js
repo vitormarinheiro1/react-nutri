@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-
+import './style.css';
 //// https://sujeitoprogramador.com/rn-api/?api=posts
 
 
@@ -38,7 +38,7 @@ function App() {
             <p className='subtitulo'>
               {item.subtitulo}
             </p>
-            <a className='botao'>Acessar</a>
+            <button className='botao'>Acessar</button>
           </article>
         )
       })}
