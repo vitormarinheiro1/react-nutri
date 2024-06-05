@@ -38,7 +38,7 @@ Here you describe how to run your project locally
 How to clone your project
 
 ```bash
-git clone https://github.com/vitormarinheiro1/tarefas.git
+git clone https://github.com/vitormarinheiro1/react-nutri.git
 ```
 
 <h3>Starting</h3>
